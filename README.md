@@ -1,8 +1,8 @@
-\# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -14,7 +14,7 @@ The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, co
 
 
 
-\## 🛠️ Tools \& Technologies
+## 🛠️ Tools \& Technologies
 
 
 
@@ -30,7 +30,7 @@ The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, co
 
 
 
-\## 🔄 Project Workflow
+## 🔄 Project Workflow
 
 
 
@@ -50,7 +50,7 @@ The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, co
 
 
 
-\## 📊 Key Performance Indicators
+## 📊 Key Performance Indicators
 
 
 
@@ -70,11 +70,11 @@ The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, co
 
 
 
-\## 📈 Dashboard Pages
+## 📈 Dashboard Pages
 
 
 
-\### 1. Overview
+### 1. Overview
 
 
 
@@ -106,7 +106,7 @@ The Overview page contains:
 
 
 
-\### 2. Sales Analysis
+### 2. Sales Analysis
 
 
 
@@ -128,7 +128,7 @@ The Sales page contains:
 
 
 
-\### 3. Top \& Bottom 5 Analysis
+### 3. Top \& Bottom 5 Analysis
 
 
 
@@ -154,7 +154,7 @@ The Top/Bottom 5 page analyzes:
 
 
 
-\## 🔍 Key Insights
+## 🔍 Key Insights
 
 
 
@@ -174,7 +174,7 @@ The Top/Bottom 5 page analyzes:
 
 
 
-\## 🎯 Project Objective
+## 🎯 Project Objective
 
 
 
@@ -186,7 +186,7 @@ The final dashboard helps users understand sales performance, ordering patterns,
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
