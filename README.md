@@ -65,19 +65,15 @@ DAX – KPI and analytical measures
 
 
 
-| KPI                      |      Value |
+1. Total Revenue = 817,860.05 
 
-| ------------------------ | ---------: |
+2. Total Orders = 21,350 
 
-| Total Revenue            | 817,860.05 |
+3. Total Pizzas Sold = 49,574 
 
-| Total Orders             |     21,350 |
+4. Average Order Value = 38.31 
 
-| Total Pizzas Sold        |     49,574 |
-
-| Average Order Value      |      38.31 |
-
-| Average Pizzas per Order |       2.32 |
+5. Average Pizzas per Order =  2.32 
 
 
 
