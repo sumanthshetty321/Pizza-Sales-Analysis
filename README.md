@@ -102,7 +102,7 @@ The Overview page contains:
 
 
 
-!\[Overview](Screenshots/Overview.png)
+![Overview](Screenshots/Overview.png)
 
 
 
