@@ -181,15 +181,6 @@ The Top/Bottom 5 page analyzes:
 
 
 
-## 🎯 Project Objective
-
-
-
-The objective of this project is to transform raw pizza sales data into meaningful business insights using Excel, SQL, and Power BI.
-
-
-
-The final dashboard helps users understand sales performance, ordering patterns, product performance, and key business metrics through interactive visualizations.
 
 
 
@@ -197,7 +188,7 @@ The final dashboard helps users understand sales performance, ordering patterns,
 
 
 
-\*\*Skills:\*\* SQL | Excel | Python | Power BI
+
 
 
 
