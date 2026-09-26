@@ -150,7 +150,7 @@ The Top/Bottom 5 page analyzes:
 
 
 
-!\[Top \& Bottom 5](Screenshots/Top\_Bottom\_5.png)
+![Top & Bottom 5](Screenshots/Top_Bottom_5.png)
 
 
 
