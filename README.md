@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis(2015)
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-This project analyzes pizza sales data to identify sales trends, customer ordering patterns, pizza category performance, pizza size preferences, and top and bottom performing pizzas.
+This project analyzes pizza sales data of 2015 to identify sales trends, customer ordering patterns, pizza category performance, pizza size preferences, and top and bottom performing pizzas.
 
 
 
