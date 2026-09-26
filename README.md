@@ -10,7 +10,7 @@ This project analyzes pizza sales data to identify sales trends, customer orderi
 
 
 
-The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, covering data preparation, SQL-based analysis, KPI calculation, and interactive dashboard development.
+The project was completed using "Microsoft Excel, MySQL, and Power BI", covering data preparation, SQL-based analysis, KPI calculation, and interactive dashboard development.
 
 
 ## 🎯 Project Objective
