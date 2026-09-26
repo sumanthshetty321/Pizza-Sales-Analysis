@@ -18,15 +18,15 @@ The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, co
 
 
 
-\* \*\*Microsoft Excel\*\* – Data preparation and initial analysis
+Microsoft Excel – Data preparation and initial analysis
 
-\* \*\*MySQL\*\* – SQL-based data analysis
+MySQL – SQL-based data analysis
 
-\* \*\*Power BI\*\* – Interactive dashboard and data visualization
+Power BI – Interactive dashboard and data visualization
 
-\* \*\*Power Query\*\* – Data transformation
+Power Query – Data transformation
 
-\* \*\*DAX\*\* – KPI and analytical measures
+DAX – KPI and analytical measures
 
 
 
