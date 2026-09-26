@@ -13,6 +13,17 @@ This project analyzes pizza sales data to identify sales trends, customer orderi
 The project was completed using \*\*Microsoft Excel, MySQL, and Power BI\*\*, covering data preparation, SQL-based analysis, KPI calculation, and interactive dashboard development.
 
 
+## 🎯 Project Objective
+
+
+
+The objective of this project is to transform raw pizza sales data into meaningful business insights using Excel, SQL, and Power BI.
+
+
+
+The final dashboard helps users understand sales performance, ordering patterns, product performance, and key business metrics through interactive visualizations.
+
+
 
 ## 🛠️ Tools \& Technologies
 
@@ -186,15 +197,7 @@ The final dashboard helps users understand sales performance, ordering patterns,
 
 
 
-## 👨‍💻 Author
 
-
-
-\*\*Sumanth Shetty\*\*
-
-
-
-Aspiring Data Analyst
 
 
 
