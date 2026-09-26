@@ -124,7 +124,7 @@ The Sales page contains:
 
 
 
-!\[Sales Analysis](Screenshots/Sales.png)
+![Sales Analysis](Screenshots/Sales.png)
 
 
 
